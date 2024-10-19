@@ -1,0 +1,72 @@
+[
+  {
+    "description": "    as a user, I want to be able to navigate to  careers page and subscribe to the news",
+    "keyword": "Feature",
+    "name": "Navigate to Careers and subscribe to the news",
+    "line": 1,
+    "id": "navigate-to-careers-and-subscribe-to-the-news",
+    "tags": [],
+    "uri": "careers.feature",
+    "elements": [
+      {
+        "id": "navigate-to-careers-and-subscribe-to-the-news;subscribe-to-the-news",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Subscribe to the news",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 3
+          },
+          {
+            "name": "@regression",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I navigate to careers page",
+            "result": {
+              "status": "passed",
+              "duration": 3181000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "I enter my email",
+            "result": {
+              "status": "passed",
+              "duration": 7981000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I check the checkbox",
+            "result": {
+              "status": "passed",
+              "duration": 314000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "I hit Submit",
+            "result": {
+              "status": "passed",
+              "duration": 329000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

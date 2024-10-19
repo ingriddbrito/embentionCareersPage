@@ -1,0 +1,15 @@
+{
+    "defaultCommandTimeout": 100000,
+    "includeShadowDom": true,
+    "experimentalSessionSupport": true,
+    "experimentalSessionAndOrigin": true,
+    "modifyObstructiveCode": false,
+    "pageLoadTimeout": 100000,
+    "responseTimeout": 100000,
+    "waitForAnimations": true,
+    "chromeWebSecurity": false,
+    "retries" : 1,        
+    "reporter": "mochawesome",
+    "projectId": "u712yt",
+    "testFiles": "**/*.feature"
+}
