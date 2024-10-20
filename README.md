@@ -1,7 +1,8 @@
-# embentionCareersPage
-
 ## Overview
-Este documento describe el plan de pruebas de control de calidad para la página "Contact Us" de Embention y algunas sugerencias de mejora para esta página. Para el canal principal de Embention en Youtube, se sugieren algunas pruebas de funcionamento. En la última sección, se describe brevemente la automatización de pruebas para la página Carrera.
+Este documento describe el plan de pruebas de control de calidad para la página "Contact Us" de Embention. Las tareas relacionadas con el canal de YouTube de Embention se encuentran en el archivo IssueReport&Improvements_contactUs.md. Finalmente, para ejecutar la prueba automatizada de la página de carrera, debe abrir el archivo embentionCareersPage/cypress/integration/examples/features
+Y haga clic en la opción  Open Cypress
+
+Foto adjunta
 
 ## Plan de pruebas para la página Contact us
 
