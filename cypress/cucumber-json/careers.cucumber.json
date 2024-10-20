@@ -32,7 +32,7 @@
             "name": "I navigate to careers page",
             "result": {
               "status": "passed",
-              "duration": 3181000000
+              "duration": 3759000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "I enter my email",
             "result": {
               "status": "passed",
-              "duration": 7981000000
+              "duration": 7295000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "I check the checkbox",
             "result": {
               "status": "passed",
-              "duration": 314000000
+              "duration": 332000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "I hit Submit",
             "result": {
               "status": "passed",
-              "duration": 329000000
+              "duration": 304000000
             }
           }
         ]
