@@ -1,6 +1,6 @@
 ## Overview
-Este documento describe el plan de pruebas de control de calidad para la página "Contact Us" de Embention. Las tareas relacionadas con el canal de YouTube de Embention se encuentran en el archivo IssueReport&Improvements_contactUs.md. Finalmente, para ejecutar la prueba automatizada de la página de carrera, debe abrir el archivo embentionCareersPage/cypress/integration/examples/features
-Y haga clic en la opción  Open Cypress
+Este documento describe el plan de pruebas de control de calidad para la página "Contact Us" de Embention. Las tareas relacionadas con el canal de YouTube de Embention se encuentran en el archivo ``IssueReport&Improvements_contactUs.md''. Finalmente, para ejecutar la prueba automatizada de la página de carrera, debe abrir el archivo embentionCareersPage/cypress/integration/examples/features
+Y haga clic en la opción  Open Cypress.
 
 Foto adjunta:
 
@@ -31,18 +31,18 @@ Foto adjunta:
         
         
 ### 4. Ambiente de prueba
-- **Versiones del navegador:** Chrome, Firefox, Edge
-- **Dispositivos:** Desktop, Mobile
-- **Sistemas operativos:** Windows, Android
+- **Versiones del navegador:** Chrome, Firefox, Edge.
+- **Dispositivos:** Desktop, Mobile.
+- **Sistemas operativos:** Windows, Android.
 
 ### 5. Calendario de pruebas
-1. Planificación de pruebas: 20-10-2024
-2. Diseño de casos de prueba: 20-10-2024
-3. Ejecución de prueba: 20-10-2024
-4. Informe de resultados: 21-10-2024
+1. Planificación de pruebas: 20-10-2024.
+2. Diseño de casos de prueba: 20-10-2024.
+3. Ejecución de prueba: 20-10-2024.
+4. Informe de resultados: 21-10-2024.
 
 ### 6. Riesgos y problemas
-Requisitos incompletos: la falta de claridad en los requisitos podría    provocar que se pierdan casos de prueba
+Requisitos incompletos: la falta de claridad en los requisitos podría    provocar que se pierdan casos de prueba.
 
 ### 7. Informes
 Todos los hallazgos y problemas se documentarán en GitHub.
