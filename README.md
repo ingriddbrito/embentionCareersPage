@@ -4,6 +4,8 @@ Y haga clic en la opción  Open Cypress
 
 Foto adjunta
 
+![Alt text](https://github.com/ingriddbrito/embentionCareersPage/blob/main/assets/cypress.png)
+
 ## Plan de pruebas para la página Contact us
 
 ### 1. Introducción
