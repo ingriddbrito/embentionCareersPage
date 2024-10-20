@@ -6,7 +6,7 @@ Feature: Navigate to Careers and subscribe to the news
         When I enter my email
         And I check the checkbox
         When I hit Submit
-        #Then I see the red confirmation message
+        Then I see the red confirmation message
 
 
 
