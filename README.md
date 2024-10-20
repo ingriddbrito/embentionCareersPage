@@ -9,7 +9,7 @@ Foto adjunta
 ### 1. Introducción
  Este plan de prueba describe la estrategia y el enfoque para probar la página de contacto de Embention. El objetivo es garantizar que la página sea funcional, fácil de usar y cumpla con todos los requisitos especificados.
 
-### 2. Scope de las pruebas
+### 2. Alcance de las pruebas
 * Dentro del alcance: 
     1. Funcionalidad del formulario de contacto
     2. Validación de la información de contacto
@@ -43,7 +43,6 @@ Foto adjunta
 Requisitos incompletos: la falta de claridad en los requisitos podría    provocar que se pierdan casos de prueba
 
 ### 7. Informes
-Todos los hallazgos y problemas se documentarán en GitHub. Se proporcionará un informe resumido al final de la fase de prueba.
-
+Todos los hallazgos y problemas se documentarán en GitHub.
 
 
